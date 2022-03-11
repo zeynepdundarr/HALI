@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-halisahaproject-dev-192633-authRole",
+      "UnauthRoleArn": "arn:aws:iam::493696846904:role/amplify-halisahaproject-dev-192633-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::493696846904:role/amplify-halisahaproject-dev-192633-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-halisahaproject-dev-192633-deployment",
+      "UnauthRoleName": "amplify-halisahaproject-dev-192633-unauthRole",
+      "StackName": "amplify-halisahaproject-dev-192633",
+      "StackId": "arn:aws:cloudformation:us-east-1:493696846904:stack/amplify-halisahaproject-dev-192633/0821a760-a158-11ec-ad05-12ed80bf1fcb",
+      "AmplifyAppId": "d1fvjaj9z76ocx"
+    }
+  }
+}
